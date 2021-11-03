@@ -13,7 +13,7 @@
 - ⚡ Fun fact: ...
 -->
 ## Skills
-### Languages
+### 🤔🌱⚡Languages
 <div>
 <img src="https://img.shields.io/badge/HTML5-green?style=plastic&logo=HTML5&logoColo=D64E00"/>
 <img src="https://img.shields.io/badge/JAVA-00AFAF?style=plastic&logo=Java&logoColo=007396"/>
@@ -36,7 +36,7 @@
 <img src="https://img.shields.io/badge/Tomcat-gray?style=plastic&logo=Apache Tomcat&logoColo=F8DC75"/><img src="https://img.shields.io/badge/GitHub-pink?style=plastic&logo=GitHub&logoColo=181717"/>
 </div>
 
- <h3> Commit stats</h3>
+ <h3> ✨Commit stats✨</h3>
  
  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kimseoungjoo&layout=domo&theme=tokyonight)
