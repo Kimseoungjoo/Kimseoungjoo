@@ -14,8 +14,8 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Skills
-### 🤔🌱⚡Languages
+ <h3> Skills</h3>
+ <h4> 🤔🌱⚡Languages</h4>
 <div>
 <img src="https://img.shields.io/badge/HTML5-green?style=plastic&logo=HTML5&logoColo=D64E00"/>
 <img src="https://img.shields.io/badge/JAVA-00AFAF?style=plastic&logo=Java&logoColo=007396"/>
