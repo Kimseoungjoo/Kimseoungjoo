@@ -24,4 +24,9 @@
 <img src="https://img.shields.io/badge/Tomcat-gray?style=plastic&logo=Apache Tomcat&logoColo=F8DC75"/>
 
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kimseoungjoo
+&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kimseoungjoo&layout=domo&theme=compact)
+
 
