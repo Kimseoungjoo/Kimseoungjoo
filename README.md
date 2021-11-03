@@ -21,12 +21,24 @@
 <img src="https://img.shields.io/badge/Pyton-green?style=plastic&logo=Python&logoColo=3776AB"/>
 <img src="https://img.shields.io/badge/Css-blue?style=plastic&logo=CSS3&logoColo=1572B6"/>
 <img src="https://img.shields.io/badge/MySQL-white?style=plastic&logo=MySQL&logoColo=4479A1"/>
+  <img src="https://img.shields.io/badge/jQuery-0769AD?style=plastic&logo=jQuery&logoColo=4479A1"/>
 </div>
+<div>
+<img src="https://img.shields.io/badge/Oracle-red?style=plastic&logo=Oracle&logoColo=#F80000"/>
+<img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=plastic&logo=Eclipse IDE&logoColo=#2C2255"/>
+ <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=plastic&logo=Visual Studio Code&logoColo=4479A1"/>
+</div>
+<div>
+   <img src="https://img.shields.io/badge/Notion-000000?style=plastic&logo=Notion&logoColo=4479A1"/>
+ </div>
 <h3> Server/tool</h3>
 <div>
 <img src="https://img.shields.io/badge/Tomcat-gray?style=plastic&logo=Apache Tomcat&logoColo=F8DC75"/><img src="https://img.shields.io/badge/GitHub-pink?style=plastic&logo=GitHub&logoColo=181717"/>
 </div>
 
+ <h3> Commit stats</h3>
+ 
+ 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kimseoungjoo&layout=domo&theme=tokyonight)
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Kimseoungjoo&show_icons=true&theme=tokyonight)
 
