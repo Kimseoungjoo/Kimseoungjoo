@@ -44,7 +44,7 @@
   <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=plastic&logo=Visual Studio&logoColor=white"/>
 </div>
 
- <h3> ✨Commit stats✨</h3>
+ <h3> ✨Commit/Push stats✨</h3>
  
  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kimseoungjoo&layout=domo&theme=tokyonight)
