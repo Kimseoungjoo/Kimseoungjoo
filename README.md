@@ -25,6 +25,6 @@
 
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Kimseoungjoo&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kimseoungjoo&layout=domo&theme=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kimseoungjoo&layout=domo&theme=tokyonight)
 
 
