@@ -4,7 +4,9 @@
 <!--
 **Kimseoungjoo/Kimseoungjoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 #Skills
-<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/HTML5?style=plastic&logo="HTML5"&logoColor="D64E00"/></a>
+<img src="https://img.shields.io/badge/HTML5-green?style=plastic&logo=HTML5&logoColo=D64E00"/>
+
+
 
 
 - 🔭 I’m currently working on ...
