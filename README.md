@@ -21,7 +21,7 @@
 <img src="https://img.shields.io/badge/Css-blue?style=plastic&logo=CSS3&logoColo=1572B6"/>
 
 ## Server/tool
-<img src="https://img.shields.io/badge/Tomcat-gray?style=plastic&logo=Apache Tomcat&logoColo=F8DC75"/>
+<img src="https://img.shields.io/badge/Tomcat-gray?style=plastic&logo=Apache Tomcat&logoColo=F8DC75"/><img src="https://img.shields.io/badge/GitHub-pink?style=plastic&logo=GitHub&logoColo=181717"/>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kimseoungjoo&layout=domo&theme=tokyonight)
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Kimseoungjoo&show_icons=true&theme=tokyonight)
