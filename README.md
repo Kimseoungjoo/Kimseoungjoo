@@ -12,8 +12,10 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-#Skills
+#Skills<br>
 <img src="https://img.shields.io/badge/HTML5-green?style=plastic&logo=HTML5&logoColo=D64E00"/>
+<img src="https://img.shields.io/badge/JAVA-gray?style=plastic&logo=Java&logoColo=007396"/>
+<img src="https://img.shields.io/badge/JavaScript-white?style=plastic&logo=JavaScript&logoColo=F7DF1E"/>
 
 
 
