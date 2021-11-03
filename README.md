@@ -1,10 +1,10 @@
-### Hi there 👋 I'm students using Java and HTML,JSP,Javacript...👋
+### Hi there 👋 I'm students using Java and HTML,JSP,Javacript...⚡
 
 
 <!--
 **Kimseoungjoo/Kimseoungjoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 #Skills
-<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/HTML5?style=plastc&logo=#E34F26&logoColor="D64E00"/></a>
+<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/HTML5?style=plastic&logo="HTML5"&logoColor="D64E00"/></a>
 
 
 - 🔭 I’m currently working on ...
