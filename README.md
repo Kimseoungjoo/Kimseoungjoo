@@ -17,7 +17,8 @@
 <img src="https://img.shields.io/badge/JAVA-00AFAF?style=plastic&logo=Java&logoColo=007396"/>
 <img src="https://img.shields.io/badge/JavaScript-red?style=plastic&logo=JavaScript&logoColo=F7DF1E"/>
 <img src="https://img.shields.io/badge/Pyton-green?style=plastic&logo=Python&logoColo=3776AB"/>
-<img src="https://img.shields.io/badge/Css-blue?style=plastic&logo=CSS3&logoColo=1572B6"/>
+<img src="https://img.shields.io/badge/Css-blue?style=plastic&logo=CSS3&logoColo=1572B6"/><Br>
+<img src="https://img.shields.io/badge/Tomcat-gray?style=plastic&logo=Apache Tomcat&logoColo=F8DC75"/>
 
 
 
