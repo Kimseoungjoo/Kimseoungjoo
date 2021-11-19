@@ -15,9 +15,9 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
- <h3> Skills</h3>
- <h4> 🤔🌱⚡Languages</h4>
 <div>
+  <h3> Skills</h3>
+ <h4> 🤔🌱⚡Languages</h4>
 <img src="https://img.shields.io/badge/HTML5-green?style=plastic&logo=HTML5&logoColo=D64E00"/>
 <img src="https://img.shields.io/badge/JAVA-00AFAF?style=plastic&logo=Java&logoColo=007396"/>
 <img src="https://img.shields.io/badge/JavaScript-red?style=plastic&logo=JavaScript&logoColo=F7DF1E"/>
@@ -34,8 +34,8 @@
    <img src="https://img.shields.io/badge/Notion-000000?style=plastic&logo=Notion&logoColo=4479A1"/>
   <img src="https://img.shields.io/badge/Notepad++-90E59A?style=plastic&logo=Notepad++&logoColo=4479A1"/>
  </div>
-<h3> Server/tool</h3>
 <div>
+ <h3> Server/tool</h3>
 <img src="https://img.shields.io/badge/Tomcat-gray?style=plastic&logo=Apache Tomcat&logoColo=F8DC75"/><img src="https://img.shields.io/badge/GitHub-pink?style=plastic&logo=GitHub&logoColo=181717"/>
   <img src="https://img.shields.io/badge/Oracle-red?style=plastic&logo=Oracle&logoColo=#F80000"/>
 <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=plastic&logo=Eclipse IDE&logoColo=#2C2255"/>
