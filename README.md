@@ -15,6 +15,8 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<table>
+ <td>
 <div>
   <h3> Skills</h3>
  <h4> 🤔🌱⚡Languages</h4>
@@ -34,7 +36,9 @@
    <img src="https://img.shields.io/badge/Notion-000000?style=plastic&logo=Notion&logoColo=4479A1"/>
   <img src="https://img.shields.io/badge/Notepad++-90E59A?style=plastic&logo=Notepad++&logoColo=4479A1"/>
  </div>
-<div>
+ <div>
+ </td>
+ <td>
  <h3> Server/tool</h3>
 <img src="https://img.shields.io/badge/Tomcat-gray?style=plastic&logo=Apache Tomcat&logoColo=F8DC75"/><img src="https://img.shields.io/badge/GitHub-pink?style=plastic&logo=GitHub&logoColo=181717"/>
   <img src="https://img.shields.io/badge/Oracle-red?style=plastic&logo=Oracle&logoColo=#F80000"/>
@@ -44,7 +48,8 @@
  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=plastic&logo=Visual Studio Code&logoColo=4479A1"/>
   <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=plastic&logo=Visual Studio&logoColor=white"/>
 </div>
-
+ </td>
+</table>
  <h3> ✨Commit/Push stats✨</h3>
  
  
