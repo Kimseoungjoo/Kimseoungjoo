@@ -17,7 +17,7 @@
 -->
 <table>
  <td>
-<div>
+<!-- <div>
   <h3> Skills</h3>
  <h4> 🤔🌱⚡Languages</h4>
 <img src="https://img.shields.io/badge/HTML5-green?style=plastic&logo=HTML5&logoColo=D64E00"/>
@@ -47,7 +47,7 @@
 <div>
  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=plastic&logo=Visual Studio Code&logoColo=4479A1"/>
   <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=plastic&logo=Visual Studio&logoColor=white"/>
-</div>
+</div> -->
  </td>
 </table>
  <h3> ✨Commit/Push stats✨</h3>
