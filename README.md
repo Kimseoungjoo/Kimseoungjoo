@@ -52,7 +52,7 @@
 </table>
  <h3> ✨Commit/Push stats✨</h3>
  
- 
+ <!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kimseoungjoo&layout=domo&theme=tokyonight)
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Kimseoungjoo&show_icons=true&theme=tokyonight)
-
+-->
