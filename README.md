@@ -15,7 +15,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<table>
+<!--<table>
  <td>
  <div>
   <h3> Skills</h3>
@@ -50,7 +50,7 @@
 </div> 
  </td>
 </table>
- <h3> ✨Commit/Push stats✨</h3>
+ <h3> ✨Commit/Push stats✨</h3>-->
  
  <!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kimseoungjoo&layout=domo&theme=tokyonight)
